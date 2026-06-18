@@ -135,11 +135,4 @@ Key questions covered in the Documentation page:
 
 ---
 
-## Future Improvements
 
-- Sentence-BERT / OpenAI Embeddings for semantic similarity
-- Collaborative filtering layer (SVD / LightFM)
-- Real-time user feedback loop
-- FAISS vector database for ANN search at scale
-- FastAPI backend to decouple from Streamlit
-- A/B testing framework for algorithm comparison
